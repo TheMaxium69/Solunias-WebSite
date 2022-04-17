@@ -1,3 +1,3 @@
-# MySiteTemplate
+# Solunias-WebSite
 
-Mon template de site web
+Le site officiel de Solunias
